@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skillmine", "Skillmine\Skillmine.csproj", "{0D38C2A7-9C40-490E-87AC-4DF4B129C562}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D38C2A7-9C40-490E-87AC-4DF4B129C562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D38C2A7-9C40-490E-87AC-4DF4B129C562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D38C2A7-9C40-490E-87AC-4DF4B129C562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D38C2A7-9C40-490E-87AC-4DF4B129C562}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3721EBE6-5E9E-4307-9E7B-D7264D8BFF43}
+	EndGlobalSection
+EndGlobal
